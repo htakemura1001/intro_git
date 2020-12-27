@@ -1,3 +1,6 @@
 gitのれんしゅうをしていきます。
 基本的なワークフローを学びます。
 aiuerkeojb
+git add
+git commit
+aiueokakikukeko
